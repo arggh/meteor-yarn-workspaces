@@ -1,0 +1,13 @@
+{
+  "name": "meteor-workspaces",
+  "private": true,
+  "workspaces": [
+    "packages/**",
+    "app1",
+    "app2"
+  ],
+  "nohoist": [
+  ],
+  "scripts": {
+  }
+}
